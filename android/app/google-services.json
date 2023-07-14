@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "328930252467",
+    "project_id": "application-e388e",
+    "storage_bucket": "application-e388e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328930252467:android:e4d177b3cbe17732d642c6",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328930252467-rsc4kdo4u7btatutnnj3banlu11usnev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOrl2QzC2hgrrN5cWo5pp5jL6QO8H3Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328930252467-rsc4kdo4u7btatutnnj3banlu11usnev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328930252467:android:3f8edc5fa71415e3d642c6",
+        "android_client_info": {
+          "package_name": "com.example.spread_sheet_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328930252467-558grefc4dp9rbpuor7e9h3efgvsmst2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spread_sheet_task",
+            "certificate_hash": "f753e4dcfa3c7bee967c78445fb5bce1dce048dd"
+          }
+        },
+        {
+          "client_id": "328930252467-rsc4kdo4u7btatutnnj3banlu11usnev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOrl2QzC2hgrrN5cWo5pp5jL6QO8H3Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328930252467-rsc4kdo4u7btatutnnj3banlu11usnev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
